@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mkavin13/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
