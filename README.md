@@ -11,4 +11,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/Mkavin13/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/Mkavin13/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
