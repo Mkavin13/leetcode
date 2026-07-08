@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mkavin13/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mkavin13/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Mkavin13/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Mkavin13/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mkavin13/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
