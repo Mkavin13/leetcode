@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Mkavin13/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mkavin13/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mkavin13/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
@@ -40,10 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Mkavin13/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mkavin13/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Mkavin13/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mkavin13/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
