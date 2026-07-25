@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Mkavin13/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mkavin13/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mkavin13/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Mkavin13/leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 ## String
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mkavin13/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Mkavin13/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mkavin13/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Mkavin13/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Database
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Mkavin13/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mkavin13/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -66,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mkavin13/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
