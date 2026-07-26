@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mkavin13/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mkavin13/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mkavin13/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Mkavin13/leetcode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 ## String
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mkavin13/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Mkavin13/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mkavin13/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mkavin13/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mkavin13/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Mkavin13/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
