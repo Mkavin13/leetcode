@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Mkavin13/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Mkavin13/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mkavin13/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Mkavin13/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mkavin13/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mkavin13/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Hash Table
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mkavin13/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
