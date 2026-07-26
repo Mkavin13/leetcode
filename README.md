@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Mkavin13/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Mkavin13/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/Mkavin13/leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mkavin13/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mkavin13/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mkavin13/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Mkavin13/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/Mkavin13/leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
