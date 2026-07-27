@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Mkavin13/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mkavin13/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mkavin13/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mkavin13/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mkavin13/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Mkavin13/leetcode/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -96,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3174-clear-digits](https://github.com/Mkavin13/leetcode/tree/main/3174-clear-digits/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mkavin13/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
