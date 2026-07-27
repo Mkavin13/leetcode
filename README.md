@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/Mkavin13/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Mkavin13/leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mkavin13/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [3174-clear-digits](https://github.com/Mkavin13/leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mkavin13/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mkavin13/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Mkavin13/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -88,4 +89,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Mkavin13/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mkavin13/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3174-clear-digits](https://github.com/Mkavin13/leetcode/tree/main/3174-clear-digits/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/Mkavin13/leetcode/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
