@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mkavin13/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mkavin13/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mkavin13/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mkavin13/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Mkavin13/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mkavin13/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Mkavin13/leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
