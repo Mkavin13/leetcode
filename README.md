@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mkavin13/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mkavin13/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3516-find-closest-person](https://github.com/Mkavin13/leetcode/tree/main/3516-find-closest-person/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
