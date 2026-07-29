@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1678-goal-parser-interpretation](https://github.com/Mkavin13/leetcode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Mkavin13/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Mkavin13/leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mkavin13/leetcode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Mkavin13/leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3174-clear-digits](https://github.com/Mkavin13/leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Mkavin13/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Mkavin13/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Mkavin13/leetcode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Mkavin13/leetcode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mkavin13/leetcode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Mkavin13/leetcode/tree/main/2259-remove-digit-from-number-to-maximize-result/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
