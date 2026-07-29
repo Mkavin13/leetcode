@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Mkavin13/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Mkavin13/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0383-ransom-note](https://github.com/Mkavin13/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Mkavin13/leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Mkavin13/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Mkavin13/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mkavin13/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Mkavin13/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0383-ransom-note](https://github.com/Mkavin13/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mkavin13/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
