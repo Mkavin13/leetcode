@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Mkavin13/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0605-can-place-flowers](https://github.com/Mkavin13/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mkavin13/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mkavin13/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mkavin13/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/Mkavin13/leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Mkavin13/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mkavin13/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mkavin13/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mkavin13/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mkavin13/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Mkavin13/leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3516-find-closest-person](https://github.com/Mkavin13/leetcode/tree/main/3516-find-closest-person/) | Easy |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Mkavin13/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0383-ransom-note](https://github.com/Mkavin13/leetcode/tree/main/0383-ransom-note/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mkavin13/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mkavin13/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Mkavin13/leetcode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Counting
@@ -120,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mkavin13/leetcode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mkavin13/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Mkavin13/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 <!---LeetCode Topics End-->
