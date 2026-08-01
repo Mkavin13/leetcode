@@ -9,6 +9,7 @@ leetcode
 | [0088-merge-sorted-array](https://github.com/Mkavin13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
 | [0896-monotonic-array](https://github.com/Mkavin13/leetcode/tree/master/0896-monotonic-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ leetcode
 | ------- |
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Mkavin13/leetcode/tree/master/0342-power-of-four) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
