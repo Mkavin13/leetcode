@@ -28,6 +28,7 @@ leetcode
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Mkavin13/leetcode/tree/master/0342-power-of-four) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/Mkavin13/leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,4 +41,8 @@ leetcode
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/Mkavin13/leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## Hash Table
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/Mkavin13/leetcode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
