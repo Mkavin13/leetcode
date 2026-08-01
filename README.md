@@ -48,4 +48,8 @@ leetcode
 | ------- |
 | [3668-restore-finishing-order](https://github.com/Mkavin13/leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Mkavin13/leetcode/tree/master/3945-digit-frequency-score) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Mkavin13/leetcode/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
