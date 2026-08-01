@@ -31,6 +31,7 @@ leetcode
 | ------- |
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Mkavin13/leetcode/tree/master/0342-power-of-four) |
+| [2469-convert-the-temperature](https://github.com/Mkavin13/leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mkavin13/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mkavin13/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
