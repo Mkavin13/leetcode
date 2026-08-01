@@ -24,4 +24,13 @@ leetcode
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Mkavin13/leetcode/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Mkavin13/leetcode/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Mkavin13/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
