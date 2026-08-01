@@ -14,6 +14,7 @@ leetcode
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mkavin13/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Mkavin13/leetcode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Mkavin13/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mkavin13/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ leetcode
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Mkavin13/leetcode/tree/master/1920-build-array-from-permutation) |
+| [3701-compute-alternating-sum](https://github.com/Mkavin13/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mkavin13/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
