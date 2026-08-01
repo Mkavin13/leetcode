@@ -10,6 +10,7 @@ leetcode
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
 | [0896-monotonic-array](https://github.com/Mkavin13/leetcode/tree/master/0896-monotonic-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/Mkavin13/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,4 +36,8 @@ leetcode
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Mkavin13/leetcode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Mkavin13/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
