@@ -10,6 +10,7 @@ leetcode
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
 | [0896-monotonic-array](https://github.com/Mkavin13/leetcode/tree/master/0896-monotonic-array) |
 | [1920-build-array-from-permutation](https://github.com/Mkavin13/leetcode/tree/master/1920-build-array-from-permutation) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mkavin13/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Mkavin13/leetcode/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mkavin13/leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -30,6 +31,7 @@ leetcode
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Mkavin13/leetcode/tree/master/0342-power-of-four) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mkavin13/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mkavin13/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mkavin13/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Mkavin13/leetcode/tree/master/3945-digit-frequency-score) |
