@@ -10,6 +10,7 @@ leetcode
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
 | [0896-monotonic-array](https://github.com/Mkavin13/leetcode/tree/master/0896-monotonic-array) |
 | [1920-build-array-from-permutation](https://github.com/Mkavin13/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Mkavin13/leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mkavin13/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mkavin13/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -29,6 +30,7 @@ leetcode
 | ------- |
 | [0075-sort-colors](https://github.com/Mkavin13/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mkavin13/leetcode/tree/master/0088-merge-sorted-array) |
+| [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ leetcode
 ## Hash Table
 |  |
 | ------- |
+| [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/Mkavin13/leetcode/tree/master/3668-restore-finishing-order) |
 | [3945-digit-frequency-score](https://github.com/Mkavin13/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
@@ -65,6 +68,7 @@ leetcode
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/Mkavin13/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/Mkavin13/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Mkavin13/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mkavin13/leetcode/tree/master/3110-score-of-a-string) |
 ## Prefix Sum
