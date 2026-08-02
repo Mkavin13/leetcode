@@ -8,6 +8,7 @@ leetcode
 | [0075-sort-colors](https://github.com/Mkavin13/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mkavin13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Mkavin13/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0896-monotonic-array](https://github.com/Mkavin13/leetcode/tree/master/0896-monotonic-array) |
 | [1920-build-array-from-permutation](https://github.com/Mkavin13/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
@@ -77,6 +78,7 @@ leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Mkavin13/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mkavin13/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
 |  |
@@ -86,4 +88,12 @@ leetcode
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Mkavin13/leetcode/tree/master/3227-vowels-game-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Mkavin13/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Mkavin13/leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
