@@ -8,6 +8,7 @@ leetcode
 | [0075-sort-colors](https://github.com/Mkavin13/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mkavin13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mkavin13/leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Mkavin13/leetcode/tree/master/0274-h-index) |
 | [0713-subarray-product-less-than-k](https://github.com/Mkavin13/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0896-monotonic-array](https://github.com/Mkavin13/leetcode/tree/master/0896-monotonic-array) |
 | [1920-build-array-from-permutation](https://github.com/Mkavin13/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -32,6 +33,7 @@ leetcode
 | ------- |
 | [0075-sort-colors](https://github.com/Mkavin13/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mkavin13/leetcode/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/Mkavin13/leetcode/tree/master/0274-h-index) |
 | [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
 ## Math
 |  |
@@ -96,4 +98,8 @@ leetcode
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Mkavin13/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Mkavin13/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
