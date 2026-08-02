@@ -40,6 +40,7 @@ leetcode
 | [2469-convert-the-temperature](https://github.com/Mkavin13/leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mkavin13/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mkavin13/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/Mkavin13/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mkavin13/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mkavin13/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mkavin13/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -72,8 +73,17 @@ leetcode
 | [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/Mkavin13/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mkavin13/leetcode/tree/master/3110-score-of-a-string) |
+| [3227-vowels-game-in-a-string](https://github.com/Mkavin13/leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mkavin13/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Mkavin13/leetcode/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Mkavin13/leetcode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
