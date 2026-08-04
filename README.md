@@ -67,6 +67,7 @@ leetcode
 | ------- |
 | [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/Mkavin13/leetcode/tree/master/3668-restore-finishing-order) |
+| [3941-password-strength](https://github.com/Mkavin13/leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Mkavin13/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -77,6 +78,7 @@ leetcode
 | [2942-find-words-containing-character](https://github.com/Mkavin13/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Mkavin13/leetcode/tree/master/3110-score-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Mkavin13/leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3941-password-strength](https://github.com/Mkavin13/leetcode/tree/master/3941-password-strength) |
 ## Prefix Sum
 |  |
 | ------- |
