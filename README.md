@@ -20,6 +20,7 @@ leetcode
 | [3668-restore-finishing-order](https://github.com/Mkavin13/leetcode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Mkavin13/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/Mkavin13/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Mkavin13/leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mkavin13/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ leetcode
 | [0088-merge-sorted-array](https://github.com/Mkavin13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Mkavin13/leetcode/tree/master/0274-h-index) |
 | [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
+| [3731-find-missing-elements](https://github.com/Mkavin13/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ leetcode
 | ------- |
 | [2418-sort-the-people](https://github.com/Mkavin13/leetcode/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/Mkavin13/leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Mkavin13/leetcode/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/Mkavin13/leetcode/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Mkavin13/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
